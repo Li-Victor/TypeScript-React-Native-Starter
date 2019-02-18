@@ -11,7 +11,7 @@
     "react-native": "0.57.5"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.9",
+    "@types/jest": "^24.0.6",
     "@types/react": "^16.7.6",
     "@types/react-native": "^0.57.7",
     "@types/react-test-renderer": "^16.0.3",
