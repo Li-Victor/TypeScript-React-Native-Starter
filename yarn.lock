@@ -571,9 +571,10 @@
   version "15.5.6"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.5.6.tgz#9c03d3fed70a8d517c191b7734da2879b50ca26c"
 
-"@types/react-native@^0.57.7":
-  version "0.57.7"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.57.7.tgz#4cbc81de4f0f54985b20dc25010744889176e775"
+"@types/react-native@^0.60.0":
+  version "0.60.0"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.60.0.tgz#992ecf1e59c4a92ffa1c1b92c669802e433acd05"
+  integrity sha512-9av+Wgh3j7nQzK6MXIGMqc57M53Ilfcyhq49SRzO/Jv9e7PdQNjJrCiXoHSvtKwuQpwxMkomAfnbcxxkp0zzBw==
   dependencies:
     "@types/prop-types" "*"
     "@types/react" "*"
